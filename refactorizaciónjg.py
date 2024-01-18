@@ -78,3 +78,5 @@ def run_game():
     check_winer(user_wins,computer_wins)
 run_game()
 
+#si puedes agregar emojis o algo mas es bien recibido, para mejorar el codigo.
+
